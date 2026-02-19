@@ -1,4 +1,3 @@
-#!/bin/bash
 """
 Numerical Fourier transform in 1-, 2-, and 3-dimensions
 Assumes that we are transforming a function $F(r)$ that is statistically isotropic in $r$
